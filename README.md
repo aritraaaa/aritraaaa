@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://mocah.org/thumbs/536273-Guy-Anime-Computer.jpg" height="150px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" height="150px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's me Aritra...</h1>
 <h3 align="center">A highly motivated, confident, and enthusiastic learner with good problem-solving skills.</h3>
